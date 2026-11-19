@@ -1,0 +1,5 @@
+*.wav
+__pycache__/
+_cache/
+out/
+node_modules/

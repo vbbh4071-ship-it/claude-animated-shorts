@@ -1,0 +1,972 @@
+[
+  {
+    "word": "A",
+    "start": 0.0,
+    "end": 0.2974
+  },
+  {
+    "word": "train",
+    "start": 0.2974,
+    "end": 0.5948
+  },
+  {
+    "word": "left",
+    "start": 0.5948,
+    "end": 0.8921
+  },
+  {
+    "word": "the",
+    "start": 0.8921,
+    "end": 1.1895
+  },
+  {
+    "word": "station",
+    "start": 1.1895,
+    "end": 1.4869
+  },
+  {
+    "word": "before",
+    "start": 1.4869,
+    "end": 1.7843
+  },
+  {
+    "word": "it",
+    "start": 1.7843,
+    "end": 2.0817
+  },
+  {
+    "word": "even",
+    "start": 2.0817,
+    "end": 2.3791
+  },
+  {
+    "word": "arrived",
+    "start": 2.3791,
+    "end": 2.6764
+  },
+  {
+    "word": "there.",
+    "start": 2.6764,
+    "end": 3.1181
+  },
+  {
+    "word": "It's",
+    "start": 3.1181,
+    "end": 3.4154
+  },
+  {
+    "word": "1883,",
+    "start": 3.4154,
+    "end": 3.7609
+  },
+  {
+    "word": "and",
+    "start": 3.7609,
+    "end": 4.0583
+  },
+  {
+    "word": "every",
+    "start": 4.0583,
+    "end": 4.3557
+  },
+  {
+    "word": "American",
+    "start": 4.3557,
+    "end": 4.6531
+  },
+  {
+    "word": "town",
+    "start": 4.6531,
+    "end": 4.9504
+  },
+  {
+    "word": "runs",
+    "start": 4.9504,
+    "end": 5.2478
+  },
+  {
+    "word": "on",
+    "start": 5.2478,
+    "end": 5.5452
+  },
+  {
+    "word": "its",
+    "start": 5.5452,
+    "end": 5.8426
+  },
+  {
+    "word": "own",
+    "start": 5.8426,
+    "end": 6.14
+  },
+  {
+    "word": "sun",
+    "start": 6.14,
+    "end": 6.4374
+  },
+  {
+    "word": "time.",
+    "start": 6.4374,
+    "end": 6.879
+  },
+  {
+    "word": "Noon",
+    "start": 6.879,
+    "end": 7.1763
+  },
+  {
+    "word": "in",
+    "start": 7.1763,
+    "end": 7.4737
+  },
+  {
+    "word": "Pittsburgh",
+    "start": 7.4737,
+    "end": 7.7711
+  },
+  {
+    "word": "is",
+    "start": 7.7711,
+    "end": 8.0685
+  },
+  {
+    "word": "noon;",
+    "start": 8.0685,
+    "end": 8.414
+  },
+  {
+    "word": "noon",
+    "start": 8.414,
+    "end": 8.7113
+  },
+  {
+    "word": "in",
+    "start": 8.7113,
+    "end": 9.0087
+  },
+  {
+    "word": "Cleveland",
+    "start": 9.0087,
+    "end": 9.3061
+  },
+  {
+    "word": "is",
+    "start": 9.3061,
+    "end": 9.6035
+  },
+  {
+    "word": "eleven",
+    "start": 9.6035,
+    "end": 9.9009
+  },
+  {
+    "word": "minutes",
+    "start": 9.9009,
+    "end": 10.1983
+  },
+  {
+    "word": "later.",
+    "start": 10.1983,
+    "end": 10.6399
+  },
+  {
+    "word": "The",
+    "start": 10.6399,
+    "end": 10.9373
+  },
+  {
+    "word": "railroad",
+    "start": 10.9373,
+    "end": 11.2346
+  },
+  {
+    "word": "prints",
+    "start": 11.2346,
+    "end": 11.532
+  },
+  {
+    "word": "timetables",
+    "start": 11.532,
+    "end": 11.8294
+  },
+  {
+    "word": "anyway,",
+    "start": 11.8294,
+    "end": 12.1749
+  },
+  {
+    "word": "one",
+    "start": 12.1749,
+    "end": 12.4722
+  },
+  {
+    "word": "per",
+    "start": 12.4722,
+    "end": 12.7696
+  },
+  {
+    "word": "town,",
+    "start": 12.7696,
+    "end": 13.1151
+  },
+  {
+    "word": "each",
+    "start": 13.1151,
+    "end": 13.4125
+  },
+  {
+    "word": "swearing",
+    "start": 13.4125,
+    "end": 13.7099
+  },
+  {
+    "word": "its",
+    "start": 13.7099,
+    "end": 14.0072
+  },
+  {
+    "word": "own",
+    "start": 14.0072,
+    "end": 14.3046
+  },
+  {
+    "word": "noon",
+    "start": 14.3046,
+    "end": 14.602
+  },
+  {
+    "word": "is",
+    "start": 14.602,
+    "end": 14.8994
+  },
+  {
+    "word": "the",
+    "start": 14.8994,
+    "end": 15.1968
+  },
+  {
+    "word": "real",
+    "start": 15.1968,
+    "end": 15.4942
+  },
+  {
+    "word": "one.",
+    "start": 15.4942,
+    "end": 15.9358
+  },
+  {
+    "word": "A",
+    "start": 15.9358,
+    "end": 16.2331
+  },
+  {
+    "word": "train",
+    "start": 16.2331,
+    "end": 16.5305
+  },
+  {
+    "word": "leaves",
+    "start": 16.5305,
+    "end": 16.8279
+  },
+  {
+    "word": "Cleveland",
+    "start": 16.8279,
+    "end": 17.1253
+  },
+  {
+    "word": "at",
+    "start": 17.1253,
+    "end": 17.4227
+  },
+  {
+    "word": "eleven",
+    "start": 17.4227,
+    "end": 17.7201
+  },
+  {
+    "word": "forty-nine",
+    "start": 17.7201,
+    "end": 18.0174
+  },
+  {
+    "word": "and",
+    "start": 18.0174,
+    "end": 18.3148
+  },
+  {
+    "word": "arrives",
+    "start": 18.3148,
+    "end": 18.6122
+  },
+  {
+    "word": "in",
+    "start": 18.6122,
+    "end": 18.9096
+  },
+  {
+    "word": "Pittsburgh",
+    "start": 18.9096,
+    "end": 19.207
+  },
+  {
+    "word": "at",
+    "start": 19.207,
+    "end": 19.5044
+  },
+  {
+    "word": "eleven",
+    "start": 19.5044,
+    "end": 19.8017
+  },
+  {
+    "word": "forty",
+    "start": 19.8017,
+    "end": 20.0991
+  },
+  {
+    "word": "before",
+    "start": 20.0991,
+    "end": 20.3965
+  },
+  {
+    "word": "it",
+    "start": 20.3965,
+    "end": 20.6939
+  },
+  {
+    "word": "left.",
+    "start": 20.6939,
+    "end": 21.1355
+  },
+  {
+    "word": "Passengers",
+    "start": 21.1355,
+    "end": 21.4329
+  },
+  {
+    "word": "watch",
+    "start": 21.4329,
+    "end": 21.7303
+  },
+  {
+    "word": "one",
+    "start": 21.7303,
+    "end": 22.0277
+  },
+  {
+    "word": "train",
+    "start": 22.0277,
+    "end": 22.325
+  },
+  {
+    "word": "pull",
+    "start": 22.325,
+    "end": 22.6224
+  },
+  {
+    "word": "out",
+    "start": 22.6224,
+    "end": 22.9198
+  },
+  {
+    "word": "as",
+    "start": 22.9198,
+    "end": 23.2172
+  },
+  {
+    "word": "an",
+    "start": 23.2172,
+    "end": 23.5146
+  },
+  {
+    "word": "identical",
+    "start": 23.5146,
+    "end": 23.812
+  },
+  {
+    "word": "train",
+    "start": 23.812,
+    "end": 24.1093
+  },
+  {
+    "word": "pulls",
+    "start": 24.1093,
+    "end": 24.4067
+  },
+  {
+    "word": "in,",
+    "start": 24.4067,
+    "end": 24.7522
+  },
+  {
+    "word": "and",
+    "start": 24.7522,
+    "end": 25.0496
+  },
+  {
+    "word": "nobody",
+    "start": 25.0496,
+    "end": 25.3469
+  },
+  {
+    "word": "knows",
+    "start": 25.3469,
+    "end": 25.6443
+  },
+  {
+    "word": "which",
+    "start": 25.6443,
+    "end": 25.9417
+  },
+  {
+    "word": "clock",
+    "start": 25.9417,
+    "end": 26.2391
+  },
+  {
+    "word": "to",
+    "start": 26.2391,
+    "end": 26.5365
+  },
+  {
+    "word": "trust.",
+    "start": 26.5365,
+    "end": 26.9781
+  },
+  {
+    "word": "Conductors",
+    "start": 26.9781,
+    "end": 27.2755
+  },
+  {
+    "word": "carry",
+    "start": 27.2755,
+    "end": 27.5729
+  },
+  {
+    "word": "three",
+    "start": 27.5729,
+    "end": 27.8702
+  },
+  {
+    "word": "pocket",
+    "start": 27.8702,
+    "end": 28.1676
+  },
+  {
+    "word": "watches,",
+    "start": 28.1676,
+    "end": 28.5131
+  },
+  {
+    "word": "passengers",
+    "start": 28.5131,
+    "end": 28.8105
+  },
+  {
+    "word": "miss",
+    "start": 28.8105,
+    "end": 29.1079
+  },
+  {
+    "word": "connections,",
+    "start": 29.1079,
+    "end": 29.4533
+  },
+  {
+    "word": "and",
+    "start": 29.4533,
+    "end": 29.7507
+  },
+  {
+    "word": "a",
+    "start": 29.7507,
+    "end": 30.0481
+  },
+  {
+    "word": "fruit",
+    "start": 30.0481,
+    "end": 30.3455
+  },
+  {
+    "word": "train",
+    "start": 30.3455,
+    "end": 30.6428
+  },
+  {
+    "word": "arrives",
+    "start": 30.6428,
+    "end": 30.9402
+  },
+  {
+    "word": "rotten",
+    "start": 30.9402,
+    "end": 31.2376
+  },
+  {
+    "word": "because",
+    "start": 31.2376,
+    "end": 31.535
+  },
+  {
+    "word": "noon",
+    "start": 31.535,
+    "end": 31.8324
+  },
+  {
+    "word": "came",
+    "start": 31.8324,
+    "end": 32.1298
+  },
+  {
+    "word": "twice.",
+    "start": 32.1298,
+    "end": 32.5714
+  },
+  {
+    "word": "Wait",
+    "start": 32.5714,
+    "end": 32.8688
+  },
+  {
+    "word": "how",
+    "start": 32.8688,
+    "end": 33.1661
+  },
+  {
+    "word": "can",
+    "start": 33.1661,
+    "end": 33.4635
+  },
+  {
+    "word": "a",
+    "start": 33.4635,
+    "end": 33.7609
+  },
+  {
+    "word": "train",
+    "start": 33.7609,
+    "end": 34.0583
+  },
+  {
+    "word": "leave",
+    "start": 34.0583,
+    "end": 34.3557
+  },
+  {
+    "word": "before",
+    "start": 34.3557,
+    "end": 34.6531
+  },
+  {
+    "word": "it",
+    "start": 34.6531,
+    "end": 34.9504
+  },
+  {
+    "word": "arrives?",
+    "start": 34.9504,
+    "end": 35.392
+  },
+  {
+    "word": "You",
+    "start": 35.392,
+    "end": 35.6894
+  },
+  {
+    "word": "see,",
+    "start": 35.6894,
+    "end": 36.0349
+  },
+  {
+    "word": "every",
+    "start": 36.0349,
+    "end": 36.3323
+  },
+  {
+    "word": "town",
+    "start": 36.3323,
+    "end": 36.6297
+  },
+  {
+    "word": "set",
+    "start": 36.6297,
+    "end": 36.927
+  },
+  {
+    "word": "its",
+    "start": 36.927,
+    "end": 37.2244
+  },
+  {
+    "word": "clocks",
+    "start": 37.2244,
+    "end": 37.5218
+  },
+  {
+    "word": "by",
+    "start": 37.5218,
+    "end": 37.8192
+  },
+  {
+    "word": "the",
+    "start": 37.8192,
+    "end": 38.1166
+  },
+  {
+    "word": "sun,",
+    "start": 38.1166,
+    "end": 38.462
+  },
+  {
+    "word": "so",
+    "start": 38.462,
+    "end": 38.7594
+  },
+  {
+    "word": "noon",
+    "start": 38.7594,
+    "end": 39.0568
+  },
+  {
+    "word": "traveled",
+    "start": 39.0568,
+    "end": 39.3542
+  },
+  {
+    "word": "west",
+    "start": 39.3542,
+    "end": 39.6516
+  },
+  {
+    "word": "at",
+    "start": 39.6516,
+    "end": 39.9489
+  },
+  {
+    "word": "a",
+    "start": 39.9489,
+    "end": 40.2463
+  },
+  {
+    "word": "walking",
+    "start": 40.2463,
+    "end": 40.5437
+  },
+  {
+    "word": "pace",
+    "start": 40.5437,
+    "end": 40.8411
+  },
+  {
+    "word": "about",
+    "start": 40.8411,
+    "end": 41.1385
+  },
+  {
+    "word": "a",
+    "start": 41.1385,
+    "end": 41.4359
+  },
+  {
+    "word": "mile",
+    "start": 41.4359,
+    "end": 41.7332
+  },
+  {
+    "word": "every",
+    "start": 41.7332,
+    "end": 42.0306
+  },
+  {
+    "word": "four",
+    "start": 42.0306,
+    "end": 42.328
+  },
+  {
+    "word": "minutes.",
+    "start": 42.328,
+    "end": 42.7696
+  },
+  {
+    "word": "Imagine",
+    "start": 42.7696,
+    "end": 43.067
+  },
+  {
+    "word": "you're",
+    "start": 43.067,
+    "end": 43.3644
+  },
+  {
+    "word": "on",
+    "start": 43.3644,
+    "end": 43.6618
+  },
+  {
+    "word": "that",
+    "start": 43.6618,
+    "end": 43.9592
+  },
+  {
+    "word": "train,",
+    "start": 43.9592,
+    "end": 44.3046
+  },
+  {
+    "word": "your",
+    "start": 44.3046,
+    "end": 44.602
+  },
+  {
+    "word": "watch",
+    "start": 44.602,
+    "end": 44.8994
+  },
+  {
+    "word": "clicking",
+    "start": 44.8994,
+    "end": 45.1968
+  },
+  {
+    "word": "noon",
+    "start": 45.1968,
+    "end": 45.4942
+  },
+  {
+    "word": "while",
+    "start": 45.4942,
+    "end": 45.7915
+  },
+  {
+    "word": "the",
+    "start": 45.7915,
+    "end": 46.0889
+  },
+  {
+    "word": "next",
+    "start": 46.0889,
+    "end": 46.3863
+  },
+  {
+    "word": "town",
+    "start": 46.3863,
+    "end": 46.6837
+  },
+  {
+    "word": "still",
+    "start": 46.6837,
+    "end": 46.9811
+  },
+  {
+    "word": "says",
+    "start": 46.9811,
+    "end": 47.2784
+  },
+  {
+    "word": "eleven",
+    "start": 47.2784,
+    "end": 47.5758
+  },
+  {
+    "word": "forty-nine,",
+    "start": 47.5758,
+    "end": 47.9213
+  },
+  {
+    "word": "and",
+    "start": 47.9213,
+    "end": 48.2187
+  },
+  {
+    "word": "you've",
+    "start": 48.2187,
+    "end": 48.5161
+  },
+  {
+    "word": "gained",
+    "start": 48.5161,
+    "end": 48.8134
+  },
+  {
+    "word": "time",
+    "start": 48.8134,
+    "end": 49.1108
+  },
+  {
+    "word": "just",
+    "start": 49.1108,
+    "end": 49.4082
+  },
+  {
+    "word": "by",
+    "start": 49.4082,
+    "end": 49.7056
+  },
+  {
+    "word": "sitting",
+    "start": 49.7056,
+    "end": 50.003
+  },
+  {
+    "word": "still.",
+    "start": 50.003,
+    "end": 50.4446
+  },
+  {
+    "word": "The",
+    "start": 50.4446,
+    "end": 50.742
+  },
+  {
+    "word": "chaos",
+    "start": 50.742,
+    "end": 51.0394
+  },
+  {
+    "word": "forced",
+    "start": 51.0394,
+    "end": 51.3367
+  },
+  {
+    "word": "America",
+    "start": 51.3367,
+    "end": 51.6341
+  },
+  {
+    "word": "into",
+    "start": 51.6341,
+    "end": 51.9315
+  },
+  {
+    "word": "four",
+    "start": 51.9315,
+    "end": 52.2289
+  },
+  {
+    "word": "standard",
+    "start": 52.2289,
+    "end": 52.5263
+  },
+  {
+    "word": "time",
+    "start": 52.5263,
+    "end": 52.8237
+  },
+  {
+    "word": "zones",
+    "start": 52.8237,
+    "end": 53.121
+  },
+  {
+    "word": "railroad",
+    "start": 53.121,
+    "end": 53.4184
+  },
+  {
+    "word": "time",
+    "start": 53.4184,
+    "end": 53.7158
+  },
+  {
+    "word": "imposed",
+    "start": 53.7158,
+    "end": 54.0132
+  },
+  {
+    "word": "by",
+    "start": 54.0132,
+    "end": 54.3106
+  },
+  {
+    "word": "the",
+    "start": 54.3106,
+    "end": 54.608
+  },
+  {
+    "word": "tracks",
+    "start": 54.608,
+    "end": 54.9053
+  },
+  {
+    "word": "themselves.",
+    "start": 54.9053,
+    "end": 55.3469
+  },
+  {
+    "word": "So",
+    "start": 55.3469,
+    "end": 55.6443
+  },
+  {
+    "word": "now,",
+    "start": 55.6443,
+    "end": 55.9898
+  },
+  {
+    "word": "every",
+    "start": 55.9898,
+    "end": 56.2872
+  },
+  {
+    "word": "train",
+    "start": 56.2872,
+    "end": 56.5846
+  },
+  {
+    "word": "leaves",
+    "start": 56.5846,
+    "end": 56.8819
+  },
+  {
+    "word": "after",
+    "start": 56.8819,
+    "end": 57.1793
+  },
+  {
+    "word": "it",
+    "start": 57.1793,
+    "end": 57.4767
+  },
+  {
+    "word": "arrives",
+    "start": 57.4767,
+    "end": 57.7741
+  },
+  {
+    "word": "because",
+    "start": 57.7741,
+    "end": 58.0715
+  },
+  {
+    "word": "we",
+    "start": 58.0715,
+    "end": 58.3689
+  },
+  {
+    "word": "finally",
+    "start": 58.3689,
+    "end": 58.6662
+  },
+  {
+    "word": "agreed",
+    "start": 58.6662,
+    "end": 58.9636
+  },
+  {
+    "word": "what",
+    "start": 58.9636,
+    "end": 59.261
+  },
+  {
+    "word": "noon",
+    "start": 59.261,
+    "end": 59.5584
+  },
+  {
+    "word": "means.",
+    "start": 59.5584,
+    "end": 60.0
+  }
+]
