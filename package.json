@@ -1,0 +1,31 @@
+{
+  "name": "wobbly-bridge",
+  "version": "1.0.0",
+  "description": "60s 9:16 cartoon 3D short - London Millennium Bridge wobble",
+  "private": true,
+  "scripts": {
+    "dev": "remotion vite",
+    "build": "remotion bundle",
+    "start": "remotion serve",
+    "render": "remotion render",
+    "tsc": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/postprocessing": "^3.2.2",
+    "@remotion/three": "4.0.233",
+    "postprocessing": "^6.39.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "4.0.233",
+    "three": "^0.172.0"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.233",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.187.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.0"
+  }
+}
